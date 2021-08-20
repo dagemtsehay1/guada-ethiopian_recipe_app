@@ -1,5 +1,8 @@
 # Guada
 
+> Guada is a free app for learning how to cook Ethiopian food. All recipes have an overview, list of ingredients, steps and a picture
+> Currently the number of recipes are few, but planned to include more in different category.
+
 ## Screenshot 
 
 <p float="left">
