@@ -1,6 +1,6 @@
 # Guada
 
-##Screenshot 
+## Screenshot 
 
 <p float="left">
   <img src="https://github.com/dagemtsehay1/gursha-ethiopian_recipe_app/blob/main/screenshots/myapp.gif" >
