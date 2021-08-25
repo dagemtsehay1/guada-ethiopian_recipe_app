@@ -15,7 +15,7 @@
 
 ## Getting Started
 
-> to download the app use this [Link](https://github.com/dagemtsehay1/gursha-ethiopian_recipe_app/releases/download/v1.0/gursha.apk)
+> to download the app use this [Link](https://github.com/dagemtsehay1/guada-ethiopian_recipe_app/releases/download/v1.0/guada.apk)
 
 
 
